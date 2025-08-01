@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/dominic/Projects/github/ASPDotNetCoreWepAPI/ASPDotNetCoreWepAPI.csproj": {}
+    "D:\\Projects\\Github\\ASPDotNetCoreWepAPI\\ASPDotNetCoreWepAPI.csproj": {}
   },
   "projects": {
-    "/home/dominic/Projects/github/ASPDotNetCoreWepAPI/ASPDotNetCoreWepAPI.csproj": {
+    "D:\\Projects\\Github\\ASPDotNetCoreWepAPI\\ASPDotNetCoreWepAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dominic/Projects/github/ASPDotNetCoreWepAPI/ASPDotNetCoreWepAPI.csproj",
+        "projectUniqueName": "D:\\Projects\\Github\\ASPDotNetCoreWepAPI\\ASPDotNetCoreWepAPI.csproj",
         "projectName": "ASPDotNetCoreWepAPI",
-        "projectPath": "/home/dominic/Projects/github/ASPDotNetCoreWepAPI/ASPDotNetCoreWepAPI.csproj",
-        "packagesPath": "/home/dominic/.nuget/packages/",
-        "outputPath": "/home/dominic/Projects/github/ASPDotNetCoreWepAPI/obj/",
+        "projectPath": "D:\\Projects\\Github\\ASPDotNetCoreWepAPI\\ASPDotNetCoreWepAPI.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Github\\ASPDotNetCoreWepAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/dominic/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -48,6 +49,8 @@
               "version": "[8.0.14, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.4, )"
             },
@@ -71,6 +74,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.18, 8.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.18, 8.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.18, 8.0.18]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.18, 8.0.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -79,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/256/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
