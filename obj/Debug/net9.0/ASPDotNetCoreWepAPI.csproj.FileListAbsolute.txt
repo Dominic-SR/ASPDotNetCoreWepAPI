@@ -31,3 +31,8 @@ D:\Projects\Github\ASPDotNetCoreWepAPI\obj\Debug\net9.0\refint\ASPDotNetCoreWepA
 D:\Projects\Github\ASPDotNetCoreWepAPI\obj\Debug\net9.0\ASPDotNetCoreWepAPI.pdb
 D:\Projects\Github\ASPDotNetCoreWepAPI\obj\Debug\net9.0\ASPDotNetCoreWepAPI.genruntimeconfig.cache
 D:\Projects\Github\ASPDotNetCoreWepAPI\obj\Debug\net9.0\ref\ASPDotNetCoreWepAPI.dll
+D:\Projects\Github\ASPDotNetCoreWepAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Github\ASPDotNetCoreWepAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Github\ASPDotNetCoreWepAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Github\ASPDotNetCoreWepAPI\bin\Debug\net9.0\MySqlConnector.dll
+D:\Projects\Github\ASPDotNetCoreWepAPI\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
