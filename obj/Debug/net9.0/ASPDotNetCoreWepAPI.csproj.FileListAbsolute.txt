@@ -22,6 +22,9 @@ D:\Projects\Github\ASPDotNetCoreWepAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
 D:\Projects\Github\ASPDotNetCoreWepAPI\bin\Debug\net9.0\Mono.TextTemplating.dll
 D:\Projects\Github\ASPDotNetCoreWepAPI\bin\Debug\net9.0\MySqlConnector.dll
 D:\Projects\Github\ASPDotNetCoreWepAPI\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projects\Github\ASPDotNetCoreWepAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Github\ASPDotNetCoreWepAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Github\ASPDotNetCoreWepAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Projects\Github\ASPDotNetCoreWepAPI\bin\Debug\net9.0\System.CodeDom.dll
 D:\Projects\Github\ASPDotNetCoreWepAPI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
 D:\Projects\Github\ASPDotNetCoreWepAPI\bin\Debug\net9.0\System.Composition.Convention.dll
