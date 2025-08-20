@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPDotNetCoreWepAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51fb0d575e5f00e8e9154b0ef4f68bde4595e4dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc17ea6750f1bcd45211262a53d11f690fee6b8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPDotNetCoreWepAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPDotNetCoreWepAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
