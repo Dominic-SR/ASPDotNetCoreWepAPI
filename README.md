@@ -1,15 +1,10 @@
-<h1>ASPFOTNETCOREAPI Version 9.0.7</h1>
+<h1>ASPFOTNETCOREAPI Version 10.0</h1>
 
-<h3>CRUD</h3>
+<h3>Jobs API</h3>
 
-<u>Pacckages</u>
+<u>Using pacckages</u>
 
-dotnet add package Pomelo.EntityFrameworkCore.MySql
-
-dotnet add package Swashbuckle.AspNetCore
-
-dotnet tool install --global dotnet-ef
-
-dotnet ef migrations add InitialCreate
-
-dotnet ef database update
+<ul>
+    <li>Swagger</li>
+    <li>MsSql</li>
+</ul>

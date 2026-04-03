@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPDotNetCoreWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a378c4f2ac81de50b46ffb4edb4c836ffc7ff018")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+999069981a1bf8c27decf0364ab47f8b12b3cf23")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPDotNetCoreWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPDotNetCoreWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
