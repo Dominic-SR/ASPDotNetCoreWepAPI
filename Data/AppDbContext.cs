@@ -8,5 +8,5 @@ public class AppDbContext : DbContext
         
     }
 
-    public DbSet<Job> Jobs { get; set; }
+    public DbSet<Job> Jobs => Set<Job>();
 }
