@@ -1,5 +1,4 @@
 namespace ASPDotNetCoreWepAPI.Controllers;
-
 using Microsoft.AspNetCore.Mvc;
 using ASPDotNetCoreWepAPI.Models;
 
