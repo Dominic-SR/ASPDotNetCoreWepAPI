@@ -59,6 +59,10 @@ TemporaryDependencyNodeTargetIdentifier=net10.0
 [sourceFiles]
 Controllers/JobsController.cs
 Data/AppDbContext.cs
+Migrations/
+ 20260414181326_InitialCreate.cs
+ 20260414181326_InitialCreate.Designer.cs
+ AppDbContextModelSnapshot.cs
 Models/Job.cs
 obj/Debug/net10.0/
  .NETCoreApp,Version=v10.0.AssemblyAttributes.cs
